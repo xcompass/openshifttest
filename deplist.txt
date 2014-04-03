@@ -1,1 +1,2 @@
-pear.phing.info/phing
+PHP_CodeSniffer
+XML_Util

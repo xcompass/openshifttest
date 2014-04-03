@@ -1,0 +1,3 @@
+echo "Downloading phing"
+curl -o $OPENSHIFT_PHP_PATH_ELEMENT/phing http://www.phing.info/get/phing-latest.phar
+chmod +x $OPENSHIFT_PHP_PATH_ELEMENT/phing
